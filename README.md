@@ -11,3 +11,5 @@ To add or update information, please
 - Send a pull request
 
 Acknowledge: [Original Repo](https://github.com/abhshkdz/ai-deadlines)
+
+## Note：Please email me if you would like to provide a domain name for better maintenance and promotion.
