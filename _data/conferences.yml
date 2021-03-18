@@ -1,7 +1,7 @@
 
 ---
 
-- title: ICASSP
+- name: ICASSP
   year: 2021
   id: icassp21
   link: https://2021.ieeeicassp.org/
@@ -11,7 +11,7 @@
   place: Toronto, Ontario, Canada
   sub: C
   
-- title: InterSpeech
+- name: InterSpeech
   year: 2021
   id: interspeech21
   link: http://www.interspeech2021.org/
@@ -31,7 +31,7 @@
   place: Virtual Conference
   sub: C
 
-- title: ICLR
+- name: ICLR
   year: 2021
   id: iclr21
   link: http://iclr.cc/
@@ -43,7 +43,7 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2020. More info
     <a href=''https://iclr.cc/Conferences/2021/CallForPapers''>here</a>.'
 
-- title: ICML
+- name: ICML
   year: 2021
   id: icml21
   link: https://icml.cc/Conferences/2021
@@ -54,7 +54,7 @@
   sub: C
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 28, 2021. More info <a href=''https://icml.cc/Conferences/2021/''>here</a>.'
 
-- title: NeurIPS
+- name: NeurIPS
   year: 2021
   id: neurips21
   link: https://neurips.cc/Conferences/2021/
@@ -65,7 +65,7 @@
   sub: C
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 19, 2021'
   
-- title: ACM-MM
+- name: ACM-MM
   year: 2021
   id: mm21
   link: https://2021.acmmm.org/
@@ -75,7 +75,7 @@
   place: Chengdu, China
   sub: C
 
-- title: SSW (Speech Synthesis Workshop)
+- name: SSW (Speech Synthesis Workshop)
   year: 2021
   id: SSW12
   link: https://ssw11.hte.hu/en/call-for-papers
