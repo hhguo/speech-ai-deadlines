@@ -15,12 +15,11 @@
   year: 2021
   id: interspeech21
   link: http://www.interspeech2021.org/
-  deadline: '2021-04-02 23:59:59'
+  deadline: '2021-03-26 23:59:59'
   timezone: UTC-12
   date: August 30 - September 3, 2021
   place: Brno, Czechia
   sub: C
-  abstract_deadline: '2021-03-26 23:59:59'
   
 - name: AAAI
   year: 2021
@@ -36,8 +35,7 @@
   year: 2021
   id: iclr21
   link: http://iclr.cc/
-  deadline: '2020-10-02 07:59:59'
-  abstract_deadline: '2020-09-28 07:59:59'
+  deadline: '2020-09-28 07:59:59'
   timezone: UTC-7
   date: May 4, 2021
   place: Vienna, Austria
@@ -49,8 +47,7 @@
   year: 2021
   id: icml21
   link: https://icml.cc/Conferences/2021
-  deadline: '2021-02-04 23:59:00'
-  abstract_deadline: '2021-01-28 23:59:00'
+  deadline: '2021-01-28 23:59:00'
   timezone: UTC-12
   date: July 18-24, 2021
   place: Vienna, Austria
@@ -61,8 +58,7 @@
   year: 2021
   id: neurips21
   link: https://neurips.cc/Conferences/2021/
-  deadline: '2021-05-26 13:00:00'
-  abstract_deadline: '2021-05-19 13:00:00'
+  deadline: '2021-05-19 13:00:00'
   timezone: America/Los_Angeles
   date: December 5-14, 2021
   place: Online
