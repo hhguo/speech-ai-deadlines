@@ -2,7 +2,6 @@
 ---
 
 - title: ICASSP
-  hindex: 80
   year: 2021
   id: icassp21
   link: https://2021.ieeeicassp.org/
@@ -13,7 +12,6 @@
   sub: C
   
 - title: InterSpeech
-  hindex: 81
   year: 2021
   id: interspeech21
   link: http://www.interspeech2021.org/
@@ -35,7 +33,6 @@
   sub: C
 
 - title: ICLR
-  hindex: 150
   year: 2021
   id: iclr21
   link: http://iclr.cc/
@@ -49,7 +46,6 @@
     <a href=''https://iclr.cc/Conferences/2021/CallForPapers''>here</a>.'
 
 - title: ICML
-  hindex: 135
   year: 2021
   id: icml21
   link: https://icml.cc/Conferences/2021
@@ -62,7 +58,6 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 28, 2021. More info <a href=''https://icml.cc/Conferences/2021/''>here</a>.'
 
 - title: NeurIPS
-  hindex: 198
   year: 2021
   id: neurips21
   link: https://neurips.cc/Conferences/2021/
@@ -75,7 +70,6 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 19, 2021'
   
 - title: ACM-MM
-  hindex: 58
   year: 2021
   id: mm21
   link: https://2021.acmmm.org/
