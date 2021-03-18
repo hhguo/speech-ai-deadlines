@@ -1,14 +1,14 @@
-title: AI Deadlines
-remark: CV-oriented
+title: Speech AI Deadlines
+remark: Speech-oriented
 
-description: Countdowns to top ML / CV / MIC conference and special issue deadlines
-author: YANG Jiancheng
-maintainers: duducheng
+description: Countdowns to top Speech conferences and workshops
+author: Haohan Guo
+maintainers: Haohan Guo
 
-domain: "creedai.github.io/ai-deadlines/"
-baseurl: "ai-deadlines"
+domain: "hhguo.github.io/speech-ai-deadlines/"
+baseurl: "speech-ai-deadlines"
 
-github_username: creedai
-github_repo: ai-deadlines
+github_username: hhguo
+github_repo: speech-ai-deadlines
 
 markdown: kramdown
