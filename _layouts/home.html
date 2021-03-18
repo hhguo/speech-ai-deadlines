@@ -60,8 +60,8 @@
             </span>
           </div>
         </div>
-    </div>
-        <div id="confs">
+      </div>
+      <div id="confs">
         <div id="coming_confs">
           {% for conf in site.data.conferences %}
           <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
@@ -117,8 +117,7 @@
         <footer>
           <div class="row">
             <div class="col-xs-12 col-sm-6">
-              <a href="/">{{ site.domain }}</a> is maintained by <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>.<br>
-              If you find it useful, consider buying him <a target="_blank" href="https://read.gift/u/abhshkdz">a book</a> or <a title="_blank" href="https://www.buymeacoffee.com/abhshkdz">coffee</a>.
+              Maintained by <a href="//github.com/{{ site.github_username }}/speech-ai-deadlines/">@{{ site.github_username }} / <a href="//github.com/{{ site.maintainers }}/">@{{ site.maintainers }}</a>.<br>
             </div>
           </div>
         </footer>
